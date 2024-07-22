@@ -52,9 +52,9 @@
     margin-bottom: 10px;
   }
   
-  input[type="radio"]#yellow {
+  /* input[type="radio"]#yellow {
     accent-color: orange;
-  }
+  } */
   .radio-group input {
     accent-color: orange;
     background-color: white;

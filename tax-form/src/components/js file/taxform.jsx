@@ -80,7 +80,7 @@ function Taxform() {
               onChange={() => setApplyToAll(false)}
             />
             <div class="checkmark"></div>
-            Apply to all items in collection
+            Apply to specific items in collection
           </label>
         </div>
         <div className="items-list-search">
